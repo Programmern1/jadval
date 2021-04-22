@@ -7,6 +7,12 @@ body {
     padding: 0;
 }
 
+h1 {
+    font-size: 45px;
+    text-align: center;
+}
+
+
 .table {
     width: 600px;
     border-collapse: collapse;
